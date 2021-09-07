@@ -1,0 +1,80 @@
+[api-updater (non-obsolete-error-filter)] 9/6/2021 7:51:17 PM : Starting /Users/ceci/Documents/2020.3.16f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1314.371ms
+moved types parse time: 143ms
+candidates parse time : 6ms
+C# parse time         : 471ms
+candidates check time : 102ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/6/2021 7:59:26 PM : Starting /Users/ceci/Documents/2020.3.16f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 105.195ms
+moved types parse time: 136ms
+candidates parse time : 5ms
+C# parse time         : 487ms
+candidates check time : 98ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/7/2021 11:48:24 AM : Starting /Users/ceci/Documents/2020.3.16f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 189.594ms
+moved types parse time: 138ms
+candidates parse time : 5ms
+C# parse time         : 465ms
+candidates check time : 209ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/7/2021 2:35:17 PM : Starting /Users/ceci/Documents/2020.3.16f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 145.791ms
+moved types parse time: 138ms
+candidates parse time : 5ms
+C# parse time         : 481ms
+candidates check time : 90ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 9/7/2021 2:35:44 PM : Starting /Users/ceci/Documents/2020.3.16f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 112.677ms
+moved types parse time: 130ms
+candidates parse time : 5ms
+C# parse time         : 459ms
+candidates check time : 85ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/7/2021 2:36:47 PM : Starting /Users/ceci/Documents/2020.3.16f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 113.46ms
+moved types parse time: 132ms
+candidates parse time : 6ms
+C# parse time         : 446ms
+candidates check time : 88ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/7/2021 2:38:03 PM : Starting /Users/ceci/Documents/2020.3.16f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 114.293ms
+moved types parse time: 139ms
+candidates parse time : 4ms
+C# parse time         : 474ms
+candidates check time : 89ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/7/2021 2:49:50 PM : Starting /Users/ceci/Documents/2020.3.16f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 178.204ms
+moved types parse time: 143ms
+candidates parse time : 6ms
+C# parse time         : 498ms
+candidates check time : 100ms
+console write time    : 2ms
+
